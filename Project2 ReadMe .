@@ -1,0 +1,22 @@
+Project2 ReadMe .
+Pattern Recognition and Machine Learning
+Rutvij Dhotey.
+
+The code is completely user friendly. 
+Just run it and it will generate the figures for each classification namely,
+1. Kmeans Training
+2. Kmeans Testing
+3. Kmeans FaceData Testing
+4. Least Squares Training
+5. Least Squares Testing
+6. Least Squares FaceData Testing
+7. Fisher Training with KNN
+8. Fisher Testing with KNN
+9. Fisher Training with Kmeans Classification
+10. Fisher Testing with Kmeans Classification
+11. Basic Cluster formation using Kmeans.
+
+The code is commented properly and all the testing and training matrices are labelled.
+
+Just Hit RUN . :)
+
